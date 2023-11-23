@@ -1,0 +1,66 @@
+.rewards-container {
+    background: url('https://image.s4.sfmc-content.com/lib/fe30117276640474731270/m/1/f25f6916-ddc1-4a31-a44b-9999bcec0bc1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 22px;
+    background-color: #fff;
+}
+
+.status-text {
+    width: 56px;
+    text-align: center;
+    border-radius: 24px;
+    padding: 2px 12px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.status-text.silver {
+    color: #23262B;
+    background: #DADEE3;
+}
+
+.status-text.gold {
+    color: #fff;
+    background: #B95000;
+}
+
+.status-text.platinum {
+    color: #fff;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+}
+
+.status-badge {
+text-align: right;
+    align-self: end;
+}
+
+.points {
+    font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+}
+
+.title {
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 140%;
+}
+
+.subtitle {
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 140%;
+}
+
+.blue {
+    color: #0176D3;
+}
+
+.c-border {
+    border-bottom: 1px solid #414249;
+}
